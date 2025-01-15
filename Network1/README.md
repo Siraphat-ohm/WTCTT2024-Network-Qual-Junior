@@ -4,4 +4,4 @@ Security Analyst ได้ตรวจพบการเจาะระบบแ
 
 หมายเหตุ: Flag แบ่งออกเป็น 2 ส่วน ต้องหาให้ครบทั้ง 2 ส่วนมาประกอบกัน
 
-URL ดาวน์โหลดโจทย์: [](https://static.wtctt24.p7z.pw/junior_net1.zip)
+URL ดาวน์โหลดโจทย์: [link](https://static.wtctt24.p7z.pw/junior_net1.zip)
