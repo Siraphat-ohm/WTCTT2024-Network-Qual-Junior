@@ -6,4 +6,4 @@ Security Analyst ได้ตรวจพบการเจาะระบบแ
 
 URL ดาวน์โหลดโจทย์: [link](https://static.wtctt24.p7z.pw/junior_net1.zip)
 
-(Writeups)[./Writeups/README.md]
+(Writeups)[/Writeups/README.md]
